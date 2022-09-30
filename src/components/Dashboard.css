@@ -1,0 +1,14 @@
+.profilePage {
+    margin-left: 150px;
+}
+
+.profilePageHeader {
+    margin-left: 220px;
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.logout {
+    padding: 15px 40px 0 0;
+}

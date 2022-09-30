@@ -1,0 +1,57 @@
+.searchbox {
+    margin-left: 500px;
+
+}
+
+.button {
+    margin: 10px;
+    background-color: #333333;
+    padding: 10px;
+    border: none;
+    border-radius: 4px;
+}
+
+.productListContainer {
+
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.username {
+    padding-top: 18px;
+    margin-right: 50px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+
+.categories {
+    display: flex;
+    padding: 0 50px 0 50px;
+    justify-content: space-between;
+}
+
+.categoryName {
+    width: 10%;
+    height: 50px;
+    color: white;
+    justify-content: center;
+    background-color: white;
+    border: 1px solid #f5f5f5;
+    margin: 10px;
+    background-color: #333333;
+    padding: 10px;
+    border: none;
+    border-radius: 4px;
+    display: flex;
+    padding-top: 25px;
+    cursor: pointer;
+}
+
+.loginSignUpButton {
+    width: 50%;
+    display: flex;
+    justify-content: end;
+    padding-right: 15px;
+}
